@@ -1,11 +1,13 @@
 # AirlineManagementSystem
-This repository contains the source code for the project 'Airline Management System' which was built using JavaFX and Scenebuilder.
+## Introduction
+This repository contains the source code for the project 'Airline Management System' which was developed using JavaFX, Scenebuilder and MySQL. The system provides details such as passenger information, flight information, payment information etc.
 
 ## Modules
 It consists of the following modules:
 ### 1. Login Module:
 This module acts as the login page of the application which allows the user to proceed further only when valid credentials for username and password have been entered. On entering the incorrect details, a ‘Login Failed’ label is displayed and only when valid username and password are entered is when the user proceeds to the home page.<br>
-
+<b>Username</b>: user<br>
+<b>Password</b>: pass<br>
 <img src="https://user-images.githubusercontent.com/109339459/230628314-5e82e486-9107-4520-985a-f24585fcb356.png" width=600 height=400><br><br><br>
 
 ### 2. Home Page:
